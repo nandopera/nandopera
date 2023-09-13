@@ -26,11 +26,14 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://github.com/nandopera/nandopera/blob/main/prog-nando_%5B00000-00099%5D.gif?raw=true"  />
+! <img align="right" height="150" src="https://github.com/nandopera/nandopera/blob/main/prog-nando_%5B00000-00099%5D.gif?raw=true"  />
 
 ###
 
->| <h3 align="left">👩‍💻  About Me</h3> | Algo | Será |
+>| <h3 align="left">👩‍💻  About Me</h3> | Algo | Será
+ | -------------- | -------------- | -------------- |
+ | Qualquer 1     | Qualquer 2     | Qualquer 3     |
+ | Qualquer 1     | Qualquer 2     | Qualquer 3     |
 
 ###
 
