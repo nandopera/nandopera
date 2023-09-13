@@ -1,4 +1,4 @@
-> [!IMPORTANT] <h2 align="left">Hey there 👋<br>I´m Fernando, but you can call me Nando.</h2>
+> <h2 align="left">Hey there 👋<br>I´m Fernando, but you can call me Nando.</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-> <h3 align="left">👩‍💻  About Me</h3>
+>| <h3 align="left">👩‍💻  About Me</h3> | Algo | Será |
 
 ###
 
