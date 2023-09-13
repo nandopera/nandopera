@@ -1,4 +1,4 @@
-<h2 align="center">Hey there 👋<br>I´m Fernando, but you can call me Nando.</h2>
+> [!IMPORTANT] <h2 align="left">Hey there 👋<br>I´m Fernando, but you can call me Nando.</h2>
 
 ###
 
@@ -30,11 +30,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+> <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">A illustrator and animator run for programming!<br><br>- 🔭 I’m working as a lot of things, print, animation, web, illustration...<br><br>- 📚 I'm currently learning a fullstack bootcamp with focus in Angular and Java.<br><br>- ⚡ In my free time I love draw and listen music, or playing games.</p>
+<p align="left">A illustrator and animator run for programming!<br><br>- [x] 🔭 I’m working as a lot of things, print, animation, web, illustration...<br><br>- [x] 📚 I'm currently learning a fullstack bootcamp with focus in Angular and Java.<br><br>- [x] ⚡ In my free time I love draw and listen music, or playing games.</p>
 
 ###
 
