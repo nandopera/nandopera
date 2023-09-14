@@ -31,8 +31,9 @@ A illustrator and animator run for programming!<br><br>
 - [x] 🔭 I’m working as a lot of things, print, animation, web, illustration...<br><br>
 - [x] 📚 I'm currently learning a fullstack bootcamp with focus in Angular and Java.<br><br>
 - [x] ⚡ In my free time I love draw and listen music, or playing games.
-
-###
+<br>
+---
+<br>
 
 ><h3 align="left">🛠 Language and tools</h3>
 
