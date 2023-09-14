@@ -26,14 +26,12 @@
 
 ###
 <img align="right" height="150" src="https://github.com/nandopera/nandopera/blob/main/prog-nando_%5B00000-00099%5D.gif?raw=true"  />
-
-A illustrator and animator run for programming!<br><br>
+A illustrator and animator run for programming!<br>
 - [x] 🔭 I’m working as a lot of things, print, animation, web, illustration...<br><br>
 - [x] 📚 I'm currently learning a fullstack bootcamp with focus in Angular and Java.<br><br>
 - [x] ⚡ In my free time I love draw and listen music, or playing games.
 
 ---
-
 
 ><h3 align="left">🛠 Language and tools</h3>
 
