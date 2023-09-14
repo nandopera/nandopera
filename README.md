@@ -1,4 +1,4 @@
-> <h2 align="left">Hey there 👋<br>I´m Fernando, but you can call me Nando.</h2>
+><h2 align="left">Hey there 👋<br>I´m Fernando, but you can call me Nando.</h2>
 
 ###
 
@@ -22,16 +22,12 @@
   </a>
 </div>
 
-###
-
-
-
-###
+---
 
 ><h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<img align="right" height="150" src="https://github.com/nandopera/nandopera/blob/main/prog-nando_%5B00000-00099%5D.gif?raw=true"  />
+![Nando coding]<img align="right" height="150" src="https://github.com/nandopera/nandopera/blob/main/prog-nando_%5B00000-00099%5D.gif?raw=true"  />
 
 A illustrator and animator run for programming!<br><br>
 - [x] 🔭 I’m working as a lot of things, print, animation, web, illustration...<br><br>
@@ -40,7 +36,7 @@ A illustrator and animator run for programming!<br><br>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+><h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -72,6 +68,6 @@ A illustrator and animator run for programming!<br><br>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+><h3 align="left">🔥   My Stats :</h3>
 
 ###
