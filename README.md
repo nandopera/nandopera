@@ -25,8 +25,8 @@
 ><h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<img align="right" height="150" src="https://github.com/nandopera/nandopera/blob/main/prog-nando_%5B00000-00099%5D.gif?raw=true"  />
-A illustrator and animator run for programming!<br>
+<img align="right" height="180" src="https://github.com/nandopera/nandopera/blob/main/prog-nando_%5B00000-00099%5D.gif?raw=true"  />
+A illustrator and animator run for programming!<br><br>
 - [x] 🔭 I’m working as a lot of things, print, animation, web, illustration...<br><br>
 - [x] 📚 I'm currently learning a fullstack bootcamp with focus in Angular and Java.<br><br>
 - [x] ⚡ In my free time I love draw and listen music, or playing games.
@@ -66,5 +66,7 @@ A illustrator and animator run for programming!<br>
 ###
 
 ><h3 align="left">🔥   My Stats :</h3>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandopera&theme=transparent&bg_color=000&border_color=f67a00&show_icons=true&icon_color=f67a00&hide_title=true&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nandopera&bg_color=000&border_color=f67a00&hide_title=true&title_color=E94D5F&text_color=FFF)
 
 ###
